@@ -1,2 +1,2 @@
 # Algoritma-C-dev
-Algoritma Hocamızın <b> C dilinde <b> verdiği ödev sorularının cevapları ve yanında kodların ne işe yaradığı açıklamalarıyla beraber yazıyor.
+Algoritma Hocamızın verdiği ödev sorularının <b> C dilinde <b> cevapları ve yanında kodların ne işe yaradığı açıklamalarıyla beraber yazıyor.
